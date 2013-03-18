@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe "StaticPages" do  
+describe "Static pages" do  
 subject { page }
 
   describe "Home page" do
